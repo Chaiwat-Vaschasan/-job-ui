@@ -1,0 +1,9 @@
+.HomeCarousel {
+    width: 100%;
+    margin: auto;
+    
+}
+.HomeCarousel img{
+    width: 100%;
+    height: 67vh;
+}
